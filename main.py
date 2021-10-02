@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.write("Hola Mundo loco")
+st.write("Hola loco")
 
 st.write("fuera")
